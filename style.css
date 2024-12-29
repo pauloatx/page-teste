@@ -1,7 +1,6 @@
 *{
     padding: 0;
-    margin: 0;
-    
+    margin: 0;  
 }
 
 body{
@@ -58,6 +57,4 @@ footer{
 }
 footer img{
     width: 50px;
-
-
 }
